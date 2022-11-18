@@ -89,6 +89,7 @@ namespace HelloWorld
             }
             catch {
                 MessageBox.Show("Try only numbers ");
+                MessageBox.Show("comment added");
             }
 
             float c = 0;
